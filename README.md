@@ -2,6 +2,7 @@
 🚀 Project Title: Reestar – A Clean &amp; Simple Food Ordering Webpage 🛠️ Tech Stack: HTML5, CSS3 (No JavaScript) 📱 Status: Static Webpage | Not Yet Responsive
 
 👋 Introduction
+
 Hi, I'm Praveen Kumar M, and this is my project "Reestar", built as part of my front-end learning journey. This project helped me improve my skills in web layout, styling, spacing, and hover effects using only HTML5 and CSS3 — without any JavaScript. The idea was to make an attractive, neat, and beginner-friendly food order site that mimics real-world UI design.
 
 🧩 Key Features
@@ -13,10 +14,11 @@ Hi, I'm Praveen Kumar M, and this is my project "Reestar", built as part of my f
 
 🔗 Live Demo
 (https://praveenkumar1434.github.io/-Reestar-Stylish-Food-Ordering-Website/)
+
 👉 Click here to view Reestar
 
 📁 GitHub Repository
-
+https://github.com/Praveenkumar1434/-Reestar-Stylish-Food-Ordering-Website
 👉 View on GitHub
 
 🙏 Acknowledgement

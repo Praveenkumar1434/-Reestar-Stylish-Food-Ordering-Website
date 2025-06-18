@@ -11,7 +11,7 @@ Hi, I'm Praveen Kumar M, and this is my project "Reestar", built as part of my f
 💡 UI Design – Used Google Fonts, custom colors, shadows & transitions
 
 🔗 Live Demo
-(You can replace with your GitHub Pages URL when hosted)
+(https://praveenkumar1434.github.io/-Reestar-Stylish-Food-Ordering-Website/)
 👉 Click here to view Reestar
 
 📁 GitHub Repository
